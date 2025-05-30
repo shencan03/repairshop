@@ -6,7 +6,7 @@ import { NavButton } from "@/components/NavButton";
 export function Header() {
   return (
     <header
-      className="animate-fslide bg-background h-12 p-2 border-b
+      className="animate-slide bg-background h-12 p-2 border-b
         sticky top-0 z-20"
     >
       <div

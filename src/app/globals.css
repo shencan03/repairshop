@@ -9,7 +9,6 @@
   @keyframes appear {
     0% {
       opacity: 0;
-      
     }
     100% {
       opacity: 1;
@@ -29,7 +28,6 @@
     }
   }
 }
-
 
 @theme inline {
   --color-background: var(--background);
@@ -151,6 +149,6 @@
 
 @layer utilities {
   .bg-home-img {
-    background-image: url('/images/home-img.jpg');
-  } 
+    background-image: url("/images/home-img.jpg");
+  }
 }
